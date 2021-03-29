@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "/s4I7UE4y/xYGDQ27ENiAnzDMreE/DaBbnl8OoP8/64Z7VDH9rJcATD0KlbJUieKJYwvoc8yDvxzXGUfsaNWhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aristote\\source\\repos\\XFrealm\\XFrealm\\XFrealm.iOS\\XFrealm.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aristote\\.nuget\\packages\\fody\\6.4.0\\fody.6.4.0.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\realm\\10.1.2\\realm.10.1.2.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\aristote\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\bin\Debug\netstandard2.0\XFrealm.deps.json
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\bin\Debug\netstandard2.0\XFrealm.dll
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\bin\Debug\netstandard2.0\ref\XFrealm.dll
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\bin\Debug\netstandard2.0\XFrealm.pdb
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.csprojAssemblyReference.cache
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.AssemblyInfoInputs.cache
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.AssemblyInfo.cs
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.csproj.CoreCompileInputs.cache
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.csproj.Fody.CopyLocal.cache
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.dll
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\ref\XFrealm.dll
+C:\Users\aristote\source\repos\XFrealm\XFrealm\XFrealm\obj\Debug\netstandard2.0\XFrealm.pdb
